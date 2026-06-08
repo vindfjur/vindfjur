@@ -9,7 +9,7 @@
   <a href="https://pypi.org/user/vindfjur/">
     <img src="https://img.shields.io/badge/PyPI-vindfjur-3775A9?logo=pypi&logoColor=white" alt="PyPI">
   </a>
-  <a href="https://vladimir33.vercel.app">
+  <a href="https://vladimir.vindfjur.art">
     <img src="https://img.shields.io/badge/Live_demo-vladimir33-C9A227?logo=vercel&logoColor=white" alt="Live demo">
   </a>
 </p>
@@ -33,7 +33,7 @@ routes, architectural heritage and folk‑ornament article pages. Built with **A
 **TypeScript** and **MapLibre GL**, shipped as static, MIT‑licensed.
 Created Nov–Dec 2024, rebuilt from scratch in June 2026.
 
-[![Open site](https://img.shields.io/badge/🌐_Open_site-vladimir33.vercel.app-C9A227?style=flat)](https://vladimir33.vercel.app)
+[![Open site](https://img.shields.io/badge/🌐_Open_site-vladimir.vindfjur.art-C9A227?style=flat)](https://vladimir.vindfjur.art)
 
 ### 🛠️ Toolbox
 
