@@ -35,6 +35,13 @@ Created Nov–Dec 2024, rebuilt from scratch in June 2026.
 
 [![Open site](https://img.shields.io/badge/🌐_Open_site-vladimir.vindfjur.art-C9A227?style=flat)](https://vladimir.vindfjur.art)
 
+**🎨 [Aplat](https://github.com/vindfjur/Aplat)** — paint on a 3D canvas: brushes, shapes and text on a sheet in
+3D space, scenes built from primitives with lights, soft shadows and transparency, and export to OBJ, STL and
+FBX. A small Windows app in **C#**, **.NET Framework** and **OpenTK**, 1.7 MB portable, Apache‑2.0.
+Created as a learning practice May–July 2026, improved and extended (not rebuilt) July–October 2026.
+
+[![Get Aplat](https://img.shields.io/badge/🎨_Get_Aplat-releases-D9C3A8?style=flat)](https://github.com/vindfjur/Aplat/releases)
+
 ### 🛠️ Toolbox
 
 <p>
@@ -44,6 +51,13 @@ Created Nov–Dec 2024, rebuilt from scratch in June 2026.
   <img src="https://img.shields.io/badge/Ruff-261230?logo=ruff&logoColor=white" alt="Ruff">
   <img src="https://img.shields.io/badge/mypy-2A6DB2?logo=python&logoColor=white" alt="mypy">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+<p>
+  <b>Desktop:</b><br>
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?logo=dotnet&logoColor=white" alt=".NET Framework">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" alt="OpenGL">
+  <img src="https://img.shields.io/badge/Inno_Setup-264B99?logoColor=white" alt="Inno Setup">
 </p>
 <p>
   <b>Web:</b><br>
