@@ -71,31 +71,9 @@ Created as a learning practice May–July 2026, improved and extended (not rebui
 
 ### 📊 GitHub stats
 
-<!--
-  Cards are served from a SELF-HOSTED github-readme-stats instance on Vercel,
-  so they never hit the public instance's rate limits.
-  Domain points to vindfjur's own Vercel instance. Light theme: "default".
-  Other light themes you can swap in: vue, solarized-light, graywhite.
-
-  Privacy / focus:
-  - count_private is OFF, so college/private repos never feed the stats.
-  - exclude_repo on the languages card hides repos that aren't mine to showcase
-    (friends' C# projects, File-Analizator, helper repos), leaving my own work.
--->
 <p align="center">
   <img height="165" alt="vindfjur's GitHub stats"
     src="https://github-readme-stats-alpha-pied-57.vercel.app/api?username=vindfjur&show_icons=true&hide_border=true&theme=default">
   <img height="165" alt="Top languages"
     src="https://github-readme-stats-alpha-pied-57.vercel.app/api/top-langs/?username=vindfjur&layout=compact&langs_count=8&hide_border=true&theme=default&hide=json&exclude_repo=File-Analizator,3DViewer,Paint3D,pr14,pr15,pr16,pr17,pr19,mdk0104,homebrew-tap,vindfjur">
 </p>
-
-<!--
-  OPTIONAL contribution-streak card. Requires a second self-hosted instance of
-  github-readme-streak-stats on Vercel. Once deployed, replace the domain below
-  and remove the surrounding comment markers to enable it.
-
-<p align="center">
-  <img alt="GitHub streak"
-    src="https://YOUR-STREAK-DOMAIN.vercel.app?user=vindfjur&hide_border=true&theme=tokyonight">
-</p>
--->
